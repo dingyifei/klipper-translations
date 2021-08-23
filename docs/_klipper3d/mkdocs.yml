@@ -122,3 +122,56 @@ nav:
     - CANBUS.md
     - TSL1401CL_Filament_Width_Sensor.md
     - HallFilamentWidthSensor.md
+  - 简体中文:
+    - locales/zh-hans/Overview.md
+    - locales/zh-hans/Features.md
+    - locales/zh-hans/FAQ.md
+    - locales/zh-hans/Releases.md
+    - locales/zh-hans/Config_Changes.md
+    - locales/zh-hans/Contact.md
+    - Installation and Configuration:
+      - locales/zh-hans/Installation.md
+      - Configuration Reference:
+        - locales/zh-hans/Config_Reference.md
+        - locales/zh-hans/Rotation_Distance.md
+      - Config_checks.md
+      - Bed Level:
+        - locales/zh-hans/Bed_Level.md
+        - locales/zh-hans/Delta_Calibrate.md
+        - locales/zh-hans/Probe_Calibrate.md
+        - locales/zh-hans/BLTouch.md
+        - locales/zh-hans/Manual_Level.md
+        - locales/zh-hans/Bed_Mesh.md
+        - locales/zh-hans/Endstop_Phase.md
+      - Resonance Compensation:
+        - locales/zh-hans/Resonance_Compensation.md
+        - locales/zh-hans/Measuring_Resonances.md
+      - locales/zh-hans/Pressure_Advance.md
+      - locales/zh-hans/Slicers.md
+      - Command templates:
+        - locales/zh-hans/Command_Templates.md
+        - locales/zh-hans/Status_Reference.md
+      - locales/zh-hans/TMC_Drivers.md
+      - locales/zh-hans/skew_correction.md
+      - locales/zh-hans/Using_PWM_Tools.md
+      - locales/zh-hans/G-Codes.md
+    - Developer Documentation:
+      - locales/zh-hans/Code_Overview.md
+      - locales/zh-hans/Kinematics.md
+      - locales/zh-hans/Protocol.md
+      - locales/zh-hans/API_Server.md
+      - locales/zh-hans/MCU_Commands.md
+      - locales/zh-hans/CANBUS_protocol.md
+      - locales/zh-hans/Debugging.md
+      - locales/zh-hans/Benchmarks.md
+      - locales/zh-hans/CONTRIBUTING.md
+      - locales/zh-hans/Packaging.md
+    - Device Specific Documents:
+      - locales/zh-hans/Example_Configs.md
+      - locales/zh-hans/SDCard_Updates.md
+      - locales/zh-hans/RPi_microcontroller.md
+      - locales/zh-hans/beaglebone.md
+      - locales/zh-hans/Bootloaders.md
+      - locales/zh-hans/CANBUS.md
+      - locales/zh-hans/TSL1401CL_Filament_Width_Sensor.md
+      - locales/zh-hans/HallFilamentWidthSensor.md
